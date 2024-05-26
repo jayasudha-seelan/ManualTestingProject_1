@@ -4,24 +4,29 @@ This repository contains a manual testing project for Swag lab website. It inclu
 
 **Test Plan Document:**
 
-![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/3f02219f-f07a-41cf-b506-8fcf74e22832)
+![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/21468e8b-0db9-4ea3-abf3-09d7d40eae70)
+
 
 **Test Case:**
 
-![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/f8ee6797-20a9-415a-9566-5f4cb788d45d)
+![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/06f668ea-5379-4c0a-bd61-489017089f04)
+
 
 **Test Report:**
 
-![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/9f2b188d-635f-463b-8043-659b735b3db0)
+![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/a71a7f02-e563-4722-8281-e8b29d0e53bd)
+
 
 **Bug Report:**
 
-![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/12011f22-ab77-4b27-a0e3-f98339d5a160)
+![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/bb221ee4-81ff-492f-a13b-33d5b4158767)
+
 
 
 **Requirement Traceability Matrix:**
 
-![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/1bdf5dea-b5d2-4d04-81bb-9e1d069f8862)
+![image](https://github.com/jayasudha-seelan/ManualTestingProject_1/assets/165782646/b5131afb-f3b9-49ea-9474-5ef37af397b9)
+
 
 
 ## Structure
